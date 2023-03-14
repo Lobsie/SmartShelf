@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "545349632082",
+    "firebase_url": "https://smartshelf-d9881-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "smartshelf-d9881",
+    "storage_bucket": "smartshelf-d9881.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545349632082:android:3e8cb3542659dfb855df8b",
+        "android_client_info": {
+          "package_name": "com.GijsDuyck.SmartShelfApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545349632082-m324odnil6rff1s0ha736in9m7dgjm7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8zCrmbS2VnKbc-IZuWLKrVC779P0kjOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545349632082-m324odnil6rff1s0ha736in9m7dgjm7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545349632082:android:7308074a2bb5ab6d55df8b",
+        "android_client_info": {
+          "package_name": "com.example.smartshelf_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545349632082-m324odnil6rff1s0ha736in9m7dgjm7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8zCrmbS2VnKbc-IZuWLKrVC779P0kjOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545349632082-m324odnil6rff1s0ha736in9m7dgjm7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
